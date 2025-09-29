@@ -80,9 +80,11 @@ npm run ios
 └── README.md
 
 ## 📸 Screenshots
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/44b8c451-4882-4611-b2e3-f6f71336b5b7" width="250" />
   <img src="https://github.com/user-attachments/assets/54b82705-8f70-49a9-a114-fc0d8e23ef23" width="250" />
   <img src="https://github.com/user-attachments/assets/e28358ff-121a-424d-8840-9e96c7c05d7b" width="250" />
   <img src="https://github.com/user-attachments/assets/0dfece87-2429-446d-8560-68038bb01ffb" width="250" />
+  <img src="https://github.com/user-attachments/assets/1e712958-b778-4712-9722-4a0dee896556" width="250" />
 </div>

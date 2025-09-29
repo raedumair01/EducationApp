@@ -86,11 +86,3 @@ npm run ios
   <img src="https://github.com/user-attachments/assets/e28358ff-121a-424d-8840-9e96c7c05d7b" width="250" />
   <img src="https://github.com/user-attachments/assets/0dfece87-2429-446d-8560-68038bb01ffb" width="250" />
 </div>
-
-
-
-
-	
-	
-
-(Add your actual screenshots here from assets/screenshots/ folder)
